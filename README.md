@@ -45,6 +45,19 @@ Desenvolvedor full stack na Inovai, a agência de inovação de Itajubá, e trai
 
 A coluna **Na prática** liga cada tema ao que eu já faço como desenvolvedor e mostra o que é novo para mim.
 
+## 🗂️ Estrutura do repositório
+
+```text
+capacitacao-asimov-felipe-souza/
+├── semana-01-git/          # Entrega da semana 1: Git e GitHub
+│   └── README.md
+├── semana-02-html-css/     # Pastas reservadas para as próximas entregas
+├── ...
+├── semana-10-notion/
+├── .gitignore
+└── README.md               # Currículo e painel da capacitação
+```
+
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-augustodev)
