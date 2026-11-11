@@ -4,7 +4,7 @@ Desenvolvedor full stack na Inovai, a agência de inovação de Itajubá, e trai
 
 ## 🎓 Formação
 
-- **Sistemas de Informação**: Universidade Fedgit eral de Itajubá (UNIFEI), 4º período
+- **Sistemas de Informação**: Universidade Federal de Itajubá (UNIFEI), 4º período
 - **Capacitação Desktop 2026.2**: Asimov Jr. (em andamento)
 
 ## 💼 Experiência
